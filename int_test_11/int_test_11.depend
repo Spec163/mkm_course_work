@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1653838572 source:d:\exz\course_3\part_2\мким\code_blocks_projects\int_test_11\main.cpp
+	"rectangle.hpp"
+	"trapeze.hpp"
+	"simpson.hpp"
+	<locale.h>
+
+1653898451 d:\exz\course_3\part_2\мким\code_blocks_projects\int_test_11\rectangle.hpp
+	"help.hpp"
+
+1577249686 d:\exz\course_3\part_2\мким\code_blocks_projects\int_test_11\help.hpp
+	<bits/stdc++.h>
+
+1653898451 d:\exz\course_3\part_2\мким\code_blocks_projects\int_test_11\trapeze.hpp
+	"help.hpp"
+
+1653898451 d:\exz\course_3\part_2\мким\code_blocks_projects\int_test_11\simpson.hpp
+	"help.hpp"
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1653210768 source:d:\exz\course_3\part_2\ÌÊèÌ\code_blocks_projects\int_test\main.cpp
+	"rectangle.hpp"
+	"trapeze.hpp"
+	"simpson.hpp"
+
+1577722435 d:\exz\course_3\part_2\ÌÊèÌ\code_blocks_projects\int_test\rectangle.hpp
+	"help.hpp"
+
+1577721097 d:\exz\course_3\part_2\ÌÊèÌ\code_blocks_projects\int_test\help.hpp
+	<bits/stdc++.h>
+
+1575920037 d:\exz\course_3\part_2\ÌÊèÌ\code_blocks_projects\int_test\trapeze.hpp
+	"help.hpp"
+
+1576425856 d:\exz\course_3\part_2\ÌÊèÌ\code_blocks_projects\int_test\simpson.hpp
+	"help.hpp"
+
+1653898558 source:d:\exz\course_3\part_2\ìêèì\code_blocks_projects\int_test\main.cpp
+	"rectangle.hpp"
+	"trapeze.hpp"
+	"simpson.hpp"
+	<locale.h>
+
+1653898132 d:\exz\course_3\part_2\ìêèì\code_blocks_projects\int_test\rectangle.hpp
+	"help.hpp"
+
+1577721097 d:\exz\course_3\part_2\ìêèì\code_blocks_projects\int_test\help.hpp
+	<bits/stdc++.h>
+
+1653898191 d:\exz\course_3\part_2\ìêèì\code_blocks_projects\int_test\trapeze.hpp
+	"help.hpp"
+
+1653898191 d:\exz\course_3\part_2\ìêèì\code_blocks_projects\int_test\simpson.hpp
+	"help.hpp"
+
